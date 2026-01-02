@@ -1,4 +1,6 @@
 # meta-smart-glasses-review-analysis
+![Dashboard Preview](screenshots/dashboard_overview.png)
+
 meta-smart-glasses-review-analysis/
 │
 ├── dataset/
